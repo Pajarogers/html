@@ -1,0 +1,40 @@
+body{
+padding:-150px;
+background-image: url('./images/doc.jpg');
+background-repeat: no-repeat;
+background-size:620px 200px;
+background-color:darkslategray;
+background-position: top, center;
+}
+
+h1{
+	color: rgb(4, 26, 30);
+	text-shadow:0 0 2px rgb(8, 0, 13);
+	font-family:'Times New Roman', Times, serif 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	
+}
+
+h2{
+	color: rgb(4, 26, 30);
+	text-shadow:0 0 1px rgb(240, 239, 246);
+	font-family:Arial, Helvetica, sans-serif, sans-serif, arial;
+}
+
+h3{
+	color: gray;
+	text-shadow:0 0 2px blue;
+	font-family:Arial, Helvetica, sans-serif, sans-serif, arial;
+}
+
+p{
+	color:rgb(188, 188, 188);
+	text-shadow:0 0 2px rgb(1, 41, 27);
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: rgb(43, 156, 179);
+}
+img{width: 10%;}
+
